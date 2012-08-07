@@ -1,0 +1,19 @@
+{
+  "name": "pocket2instapaper",
+  "version": "0.0.1",
+  "description": "Transfers your articles from Pocket to Instapaper",
+  "main": "pocket2instapaper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pspeter3/pocket2instapaper.git"
+  },
+  "author": "Phips Peter",
+  "license": "BSD",
+  "dependencies": {
+    "prompt": "0.2.4",
+    "request": "2.10.0"
+  }
+}
