@@ -1,0 +1,11 @@
+{
+  "pocket" : {
+    "apiKey": "abc",
+    "username": "bob",
+    "password": "password"
+  },
+  "instapaper": {
+    "username": "bob",
+    "password": "password"
+  }
+}
