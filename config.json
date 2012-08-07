@@ -2,7 +2,7 @@
   "pocket" : {
     "apiKey": "abc",
     "username": "bob",
-    "password": "password"
+    "password": "actual"
   },
   "instapaper": {
     "username": "bob",
