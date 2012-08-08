@@ -24,3 +24,8 @@ Instructions
         }
 
 4. Run `node pocket2instapaper.js`
+
+Notes
+-----
+
+Given the speed of Node, depending on how many articles you have in pocket, you may end up being rate limited by Instapaper.
